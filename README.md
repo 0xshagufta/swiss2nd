@@ -1,2 +1,0 @@
-# swiss2nd
-swiss
